@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,600;6..12,800&display=swap');
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    list-style: none;
+} 
+
+p {
+    margin: 0%!important;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.demo-wrap {
+    overflow: hidden;
+    position: relative;
+    background-color: #007706;
+  }
+  
+  .demo-bg {
+    opacity: 0.2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 600px;
+  }
+
+  .demo-content {
+    position: relative;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.login-text {
+    color: white;
+    font-weight: bolder;
+    border-bottom: 1px solid white;
+}
+
+.text-yayasan {
+    font-size: small;
+}
+
+.img-yayasan {
+    width: 35px;
+    height: 50px;
+}
+
+.no-padd {
+    padding: 0%!important;
+}
+
+.card-register-login {
+    border: none!important;
+    width: 100%;
+    background-color: white;
+    height: 600px;
+}
+
+.card-register {
+    border: none!important;
+    width: 60%;
+    background-color: white;
+    height: 550px;
+}
+
+.text-register {
+    font-weight: bolder;
+    font-size: larger;
+    color: #007706;
+}
+
+.login-alert {
+    margin-top: 149px;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-green-base {
+    color: #339238;
+}
+
+.text-grey {
+    color: #8a8989!important;
+}
+
+.fs-7 {
+    font-size: smaller;
+} 
+
+.bold {
+    font-weight: bold;
+}
+
+.bolder {
+    font-weight: 900;
+}
+
+.center {
+    text-align: center;
+}
+
+.form-control {
+    background-color: #EEEEEE!important;
+    border: 2px solid #EAEAEA!important;
+    padding: 10px!important;
+}
+
+.btn-yg-green {
+    background-color: #E6F2E7!important;
+    color:#007706!important;
+    font-weight: bold!important;
+}
+
+.btn-old-green {
+    background-color: #339238!important;
+    color:#E6F2E7!important;
+    font-weight: bold!important;
+}
+
+.btn-yg-green:hover {
+    background-color: #5BA75F!important;
+    color:#E6F2E7!important;
+    font-weight: bold!important;
+}
+
+.btn-old-green:hover {
+    background-color: #E6F2E7!important;
+    color:#339238!important;
+    font-weight: bold!important;
+}
+
+/* home */
+.img-brand {
+    width: 40px;
+    height: 50px;
+}
+
+.nav-link {
+    color: white!important;
+}
+
+.borderless {
+    border: none!important;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.bg-wave {
+    background-image: url("img/wave.png");
+}
+
+.progress-bar {
+    background-color: #66AD6A!important;
+}
+
+.bg-yg-green {
+    background-color: #E6F2E7;
+}
